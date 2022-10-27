@@ -1,0 +1,23 @@
+{
+  "name": "matt-lib-encryption",
+  "version": "1.0.0",
+  "description": "A Library to Encrypt or Decrypt a String",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiuskormasela12/matt-lib-encryption.git"
+  },
+  "keywords": [
+    "Encryption",
+    "Decryption"
+  ],
+  "author": "Mathius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathiuskormasela12/matt-lib-encryption/issues"
+  },
+  "homepage": "https://github.com/mathiuskormasela12/matt-lib-encryption#readme"
+}
