@@ -1,7 +1,7 @@
 {
   "name": "matt-lib-encryption",
-  "version": "1.0.0",
-  "description": "A Library to Encrypt or Decrypt a String",
+  "version": "1.0.2",
+  "description": "A Library to Encrypt or Decrypt a String Alphabets and String Numbers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
